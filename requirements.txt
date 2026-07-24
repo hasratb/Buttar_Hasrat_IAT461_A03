@@ -1,7 +1,0 @@
-numpy>=2.0
-pandas>=2.2
-geopandas>=1.0
-streamlit>=1.45
-scikit-learn>=1.5
-matplotlib>=3.9
-plotly>=6.0
